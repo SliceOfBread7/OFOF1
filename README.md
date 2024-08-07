@@ -19,8 +19,10 @@ https://github.com/GregTurbo/Open-Frame1
 
 ## Panels
 
-There are many ways to fabricate the top and bottom panels.  The method I am using is ordering them as aluminum PCBs from JLCPCB.  This is cheap, strong, and allows for logos or other designs to be built into the panel.  
+There are many ways to fabricate the top and bottom panels.  The method I am using is ordering them as aluminum PCBs from JLCPCB.  This is cheap, strong, and allows for logos or other designs to be built into the panel.
+
 ![image](https://github.com/user-attachments/assets/477889c5-e30a-47b4-93ba-72d565411d01)
+
 However, JLCPCB has a minimum order quantity of 5, so this is not the most economical for a one-off build.
 
 Another good method would be to order the panels through a laser-cutting service like SendCutSend (for those in the USA/Canada).  3mm acrylic or MDF or 1.6mm aluminum would both be suitable materials, and wouldn't be very expensive to get manufactured.  The panels can also be cut by hand from MDF or plywood or whatever.  Just know that you may need longer screws if you use a material thicker than 3mm.
@@ -48,7 +50,7 @@ Files for these are provided in STL format, both as individual parts for at-home
 
 If you do not like the open-frame look of the controller, there are 3D printable files for three configurations (regular, regular with acrylic/3mm thick top panel, and alt) that provide solid sidewalls.  These replace the standoffs described above.  
 
-![image](https://user-images.githubusercontent.com/95242582/194998187-f9c72b28-0370-40b0-9ff4-a694d3822cd3.png)
+![image](https://github.com/user-attachments/assets/47a82258-777f-4b15-b9c3-0732244571e9)
 
 The STL files for at-home printing contain several parts, so open in your slicer program of choice to separate.  If arranged as shown it is possible to print all parts at the same time on an Ender3-sized print bed.
 
