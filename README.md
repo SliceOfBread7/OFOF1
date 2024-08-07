@@ -20,7 +20,7 @@ https://github.com/GregTurbo/Open-Frame1
 ## Panels
 
 There are many ways to fabricate the top and bottom panels.  The method I am using is ordering them as aluminum PCBs from JLCPCB.  This is cheap, strong, and allows for logos or other designs to be built into the panel.  
-![image](https://user-images.githubusercontent.com/95242582/177420697-fc26cb6a-f005-4b2a-90ea-1a2d32045680.png)
+![image](https://github.com/user-attachments/assets/477889c5-e30a-47b4-93ba-72d565411d01)
 However, JLCPCB has a minimum order quantity of 5, so this is not the most economical for a one-off build.
 
 Another good method would be to order the panels through a laser-cutting service like SendCutSend (for those in the USA/Canada).  3mm acrylic or MDF or 1.6mm aluminum would both be suitable materials, and wouldn't be very expensive to get manufactured.  The panels can also be cut by hand from MDF or plywood or whatever.  Just know that you may need longer screws if you use a material thicker than 3mm.
